@@ -155,10 +155,9 @@ h3{
     }
     .ko{
         width: 490px;
-        height: 10vh;
-        right: -100px;
-        padding-right: -200px;
-        position: fixed;
+        height: 60vh;
+        padding-right: 100px;
+        padding-top: 30px;
     }
 }
 
